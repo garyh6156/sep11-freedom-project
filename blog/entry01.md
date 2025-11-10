@@ -21,9 +21,12 @@ l will say l am in Test and evaluate the prototype because right l am testing co
 
 
 ### Skills 
-The first skill l use was Debugging this skill help you to fix your code, for example that before l can't add any character to my Kaboom mini game but after debugging it was solve. The second skill was How to read that this skill help l understand more stuff about something for example
+The first skill l use was Debugging this skill help you to fix your code, for example that before l can't add any character to my Kaboom mini game but after debugging it was solve. The second skill was How to read that this skill help l understand more stuff about something for example in Kaboom website there tutoring and code that you can read to help you learn more.
 
 
+
+### Professionalism 
+Lastly always have a look on your code because it might have a bug and than you could use debugging skill to make your code correct in the way you want.
 
 
 
