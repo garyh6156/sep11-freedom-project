@@ -16,6 +16,16 @@ const player = add([
 To create a green bean as the character 
 
 
+### Engineering Desigh Process
+l will say l am in Test and evaluate the prototype because right l am testing code in my IDE for Kaboom and trying to learn the job for every code.
+
+
+### Skills 
+The first skill l use was Debugging this skill help you to fix your code, for example that before l can't add any character to my Kaboom mini game but after debugging it was solve. The second skill was How to read that this skill help l understand more stuff about something for example
+
+
+
+
 
 [Next](entry02.md)
 
