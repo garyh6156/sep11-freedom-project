@@ -3,22 +3,37 @@
 
 ### Content
 In the past week, l had being lost and confuse about Kaboom, but l watched one [video](https://www.youtube.com/watch?v=g4slFm0lows) that it really help me understand more about Kaboom. In the video it example the different between Kaboom and Phaser 3, to make me understand how Kaboom work. I was trying a game that a little bean is collecting coin. 
+``` js
 
 onKeyPress("space", () => {
 	if (player.isGrounded()) {
 		player.jump()
 	}
 })
+```
+
+This is a code that to make user jump when they click on space 
+
+``` js
+onKeyDown("left", () => {
+	player.move(-SPEED, 0)
+})
+
+onKeyDown("right", () => {
+	player.move(SPEED, 0)
+})
+```
+And this two code make player move left and right when they press on the left and right arrow which created half of the game.
+
+
+
+### Engineering Design Process
+Right now l was the stage 5(Create a prototype) of Engineering Design Process because now l was building the basic of my game using Kaboom, at this stage l am creating the basic movement that player can do.
 
 
 
 
-
-
-
-
-
-
+### Skills 
 
 
 
