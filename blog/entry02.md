@@ -38,7 +38,8 @@ The first skill was Collaboration because the classmate sitting next to me was u
 
 
 
-
+### Professionalism
+At the end l just wanted to say that don't be afraid from asking question and asking your partner for help, because it really gonna help you learn and be less afraid from talking if you keep doing it.
 
 
 
