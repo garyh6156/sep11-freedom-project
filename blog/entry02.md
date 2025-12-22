@@ -34,6 +34,12 @@ Right now l was the stage 5(Create a prototype) of Engineering Design Process be
 
 
 ### Skills 
+The first skill was Collaboration because the classmate sitting next to me was using the same tool as me which are Kaboom, he showed me his game and l was asking help when my code was bugging and l couldn't figure it out, So Collaboration helped me a lot. The next skill was Creativity because when you were creating a game, you gotta be creative so yout game not gonna look boring.
+
+
+
+
+
 
 
 
