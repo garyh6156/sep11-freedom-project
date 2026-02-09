@@ -1,7 +1,8 @@
 # Entry 3
 ##### 2/2/26
 
-Text
+### Content
+During the winter break I try to add coin in my game, which you can control the bean to collect the coin and get score from it, 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
