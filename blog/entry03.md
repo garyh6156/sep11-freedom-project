@@ -35,7 +35,7 @@ The first skills was Creativity because when you were creating a game, you reall
 
 
 ### Professionalism
-
+At the end I just wanted to say that the way that to use AI is only ask the AI what the code mean or do, don't just like asking AI just to "create the whole code for your work" because it makes you basically learn nothing
 
 
 
