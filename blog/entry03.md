@@ -30,6 +30,7 @@ I am in 7 "Improve as needed" because now I am just trying to add more thing int
 
 
 
+### Skills
 
 
 
