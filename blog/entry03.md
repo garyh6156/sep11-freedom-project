@@ -24,6 +24,11 @@ Next step is that I wanna to add coins in my game, which player can collect it t
 
 
 
+### Engineering Design Process
+I am in 7 "Improve as needed" because now I am just trying to add more thing into my game and try to improve my game, like I am trying to add coins system to my game and I try to improve how my game should work.
+
+
+
 
 
 
