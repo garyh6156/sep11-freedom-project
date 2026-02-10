@@ -10,6 +10,17 @@ setGravity(100)
 ``` 
 This code gonna make the player jump high but falling very slow, at first I don't know how to use the code but in the [playground](https://kaboomjs.com/play?example=gravity) of kaboom, it shows the example of gravity and I try to change in the number inside the setGravity(100) to see what changed.
 
+``` js
+kaboom({
+	width: 20,
+	height: 10,
+})
+``` 
+This code gonna make the space very small, and I learn this and see example in this [playground](https://kaboomjs.com/play?example=size) it simple but had give me example of size.
+
+
+### Next
+Next step is that I wanna to add coins in my game, which player can collect it to get score and add enemy to try to stop you from collecting coins.
 
 
 
