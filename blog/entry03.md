@@ -31,6 +31,8 @@ I am in 7 "Improve as needed" because now I am just trying to add more thing int
 
 
 ### Skills
+The first skills was Creativity because when you were creating a game, you really needed to think outside the box to make your game seems less boring and creativity make your game unique. The next skills is that Organization because when you creating a game, there gonna be a lot of file, so you really need to remember or take notes for each file and put them in a group to help you.
+
 
 
 
