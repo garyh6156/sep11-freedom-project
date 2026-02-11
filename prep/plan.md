@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Kaboom
+## Product: collecting coins game
 
 ---
 
