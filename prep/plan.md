@@ -22,6 +22,10 @@
 
 - [ ] Task
   - [ ] Subtask
+  - [ ] add sound effect
+  - [ ] create heart that show how much live u have
+  - [ ] add levels
+  - [ ] add effect in the background
 
 
 <!-- EXAMPLE
