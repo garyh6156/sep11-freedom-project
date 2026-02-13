@@ -11,6 +11,12 @@
 
 - [ ] Task (deadline: X)
   - [ ] Subtask (deadline: X)
+  - [ ] Make the user can jump when click space (3/2)
+  - [ ] try add coins(3/2)
+  - [ ] add score after you collected one coin or more(3/3)
+  - [ ] add monster(3/3)
+  - [ ] add trap(3/4)
+  - [ ] add gameover when u lose(3/5)
 
 #### Beyond MVP
 
