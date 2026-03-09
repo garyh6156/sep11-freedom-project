@@ -11,7 +11,7 @@ setGravity(100)
 
 
 ```
-This code set the gravity to 100
+This code set the gravity to 100 which make the player jump high but falling very slow
 ``` js
 const bad = add([
     sprite("monster "),
@@ -20,8 +20,7 @@ const bad = add([
     body(),
 ])
 ```
-This is my code that when the code runs. It spawns at position (100, 200) it gonna follow the player and try to kill the player but l was still finding out how to make it spawn every 5 secs.
----
+This is my code that when the code runs. The monster gonna spawns at position (100, 200) it gonna follow the player and try to kill the player but l was still finding out how to make it spawn every 5 secs.
  
 ### 
    
