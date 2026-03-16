@@ -9,7 +9,7 @@ loadSprite("coin", "/sprites/coin.png")
 })
 ``` 
 This is my code also in this [playground](https://kaboomjs.com/play?example=level) first it load the picture of the coins(That I had already upload) and then it spawn coins(somewhere on the map). And I watch this [video](https://youtu.be/u4OUqATxRdg?feature=shared
-)  and I kind switch the apple example with coins, but it the old kaboom so it might be different,
+)  and I kind switch the apple example with coins, but it the old kaboom so it might be different.
 
 
 ### Next Steps
@@ -23,12 +23,12 @@ Now I  am in 5 and 7 because after I been creating things, there is still a lot 
 
 
 ### Skills
-The skill that I use and learn is Debugging and Collaboration
+The skill that I use and learn is Debugging and How to google because I am still trying to fix my code and I am searching up video that can help me to fix my code.
 
 
 
 ### Professionalism
-
+That always need comments after you finish your code because some times you might forget what did each code do.
 
 
 
