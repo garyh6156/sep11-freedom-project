@@ -3,6 +3,7 @@
 
 ### Content
 During the past weeks, I try to add coins in my games but it bugging, and I still trying to fix it.
+### Code from playground
 ``` js
 loadSprite("coin", "/sprites/coin.png")
 .onCollide("coin", (coin) => {
@@ -11,7 +12,15 @@ loadSprite("coin", "/sprites/coin.png")
 This is my code also in this [playground](https://kaboomjs.com/play?example=level) first it load the picture of the coins(That I had already upload) and then it spawn coins(somewhere on the map). And I watch this [video](https://youtu.be/u4OUqATxRdg?feature=shared
 )  and I kind switch the apple example with coins, but it the old kaboom so it might be different.
 
-
+### My Code 
+``` js
+k.loadSprite("coin", "sprites/coin.png")
+k.add([
+	k.pos(150,90),
+	k.sprite("coin"),
+	k.area(20),
+``` 
+First it loaded the image of the coin and then give the position in (150,90)
 ### Next Steps
 First I wanted to fix the error in my code that spawn coins, and then I wanted add code that make different types of enemies, such like enemies that can shot bullet and enemies that have sword that only can attack you when they are close to you.
 
