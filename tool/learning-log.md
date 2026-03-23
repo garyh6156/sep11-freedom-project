@@ -4,7 +4,7 @@
 
 ## Project: **Finance**
 
-### 3/2/2026
+### 3/14/2026
 The gravity in Kaboom can impact the high and the speed that the player can jump and went down in the game.
 ``` js
 setGravity(100)
@@ -20,11 +20,19 @@ const bad = add([
     body(),
 ])
 ```
-This is my code that when the code runs. The monster gonna spawns at position (100, 200) it gonna follow the player and try to kill the player but l was still finding out how to make it spawn every 5 secs.
+This is my code that when the code runs. The monster gonna spawns at position (100, 200) it gonna follow the player and try to kill the player but l was still finding out how to make it spawn every 5 secs. (It broken)
  
-### 
-   
-
+### Coins
+Then I try to create a coins in my game 
+``` js
+k.loadSprite("coin", "sprites/coin.png")
+k.add([
+	k.pos(150,90),
+	k.sprite("coin"),
+	k.area(20),
+])
+```
+This is my code to create a coins first I find image online and out them in a file and name it coin.png and then I use the k.loadSprite to load my image and then give it a position. 
 
 <!-- 
 * Links you used today (websites, videos, etc)
