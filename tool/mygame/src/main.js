@@ -11,6 +11,7 @@ k.add([
 k.add([
 	k.pos(150,90),
 	k.sprite("coin"),
+	k.area(20),
 ])
 
 

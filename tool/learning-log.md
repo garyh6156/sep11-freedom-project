@@ -4,7 +4,7 @@
 
 ## Project: **Finance**
 
-### 3/2/2026
+### 3/16/2026
 The gravity in Kaboom can impact the high and the speed that the player can jump and went down in the game.
 ``` js
 setGravity(100)
