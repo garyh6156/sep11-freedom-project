@@ -4,7 +4,11 @@
 
 ## Project: **Finance**
 
+<<<<<<< HEAD
 
+=======
+### Learning Log 9
+>>>>>>> ccc0c511e0724039da1b04cd00a5cb750ddf67c0
 ### 3/14/2026
 
 The gravity in Kaboom can impact the high and the speed that the player can jump and went down in the game.
@@ -38,6 +42,8 @@ This is my code to create a coins first I find image online and out them in a fi
 
 
 
+### Learning Log 10
+l add another coin
 
 
 
