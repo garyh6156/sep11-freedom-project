@@ -3,13 +3,14 @@ import kaboom from "kaboom"
 kaboom()
 
 loadSprite("bean", "sprites/bean.png")
-loadSprite("coin", "sprites/coin.png")
+loadSprite("money", "sprites/money.png")
 
 const SPEED = 200
 
 const player = add([
 	pos(120, 90),
 	sprite("bean"),
+	area(),
 ])
 
 onKeyDown("left", () => {
@@ -28,25 +29,23 @@ onKeyDown("down", () => {
 	player.move(0, SPEED)
 })
 
-add([
-	pos(120,90),
-	sprite("coin"),
-	scale(0.5)
-	
-])
+function spawnCoin() {
+    const coin = add([
+        pos(rand(width()), rand(height())), // Random position
+        sprite("money"), // Use the money sprite
+        scale(0.5), // size it 
+		area(),
+        "coin" 
+    ]);
+}
+loop(3, spawnCoin);
 
-// add([
-// 	pos(150,90),
-// 	sprite("coin"),
-// 	area(20),
-// ])
-// add([
-// 	pos(100,90),
-// 	sprite("coin"),
-// 	area(20),
-// ])
+player.onCollide("coin", (coin) => {
+	destroy(coin)
+})
 
 
 
 
-onClick(() => addKaboom(mousePos()))
+
+
