@@ -28,11 +28,12 @@ onKeyDown("down", () => {
 	player.move(0, SPEED)
 })
 
-// add([
-// 	pos(120,90),
-// 	sprite("coin"),
-// 	area(20),
-// ])
+add([
+	pos(120,90),
+	sprite("coin"),
+	scale(0.5)
+	
+])
 
 // add([
 // 	pos(150,90),
