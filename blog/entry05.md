@@ -39,7 +39,10 @@ function movment(){
 
 * But there was still a lot I need to debug 
 
-And then is how to google that when I try to remove the background of my image, I doesn't know how to do it, so I google up that what some website that you could use to remove background of an image, then I find this [website](https://www.photopea.com/) in this website you can drag/upload the image you need on there and use the magic wand 
+And then is how to google that when I try to remove the background of my image, I doesn't know how to do it, so I google up that what some website that you could use to remove background of an image, then I find this [website](https://www.photopea.com/) in this website you can drag/upload the image you need on there and use the magic wand to click the part that you want to remove and then you click files and exports as png, this website was useful for edit image.
+
+### Professionalism
+That always keep the link of the webite that you use to help you, because then you will not loss the webite and easier to find when you need help again.
 
 
 
