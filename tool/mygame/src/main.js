@@ -48,24 +48,26 @@ loop(3, spawnCoin);
 player.onCollide("coin", (coin) => {
 	destroy(coin)  // destory the coin after player go on the 
 })
-var speed = 100;
-function spawnNpc(){
-	const mom = add([
-		pos(rand(width()),rand(height())),
-		sprite("mom"),
-		scale(0.3),
-		area(),
-	])
-	
- }
- function movment(){
-	mom.action(() => {
-		mom.moveTowards(player.pos, mom.speed);
- }
- )}
-loop(10, spawnNpc);
+	// Spawn NPC
+	function spawnNpc() {
+
+		const mom = add([
+			sprite("mom"),
+			pos(rand(0, width()), rand(0, height())),
+			scale(0.5),
+			area(),
+		])
+
+		const npcSpeed = 100
+
+		// Follow player
+		mom.onUpdate(() => {
+			mom.moveTo(player.pos, npcSpeed)
+		})
+	}
+
+	// Spawn a new mom every 10 seconds
+	loop(15, spawnNpc)
 
 
-
-
-
+init()
