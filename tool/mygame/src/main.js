@@ -66,7 +66,7 @@ player.onCollide("coin", (coin) => {
 		})
 	}
 
-	// Spawn a new mom every 10 seconds
+	// Spawn a new mom every 15 seconds
 	loop(15, spawnNpc)
 
 
