@@ -1,7 +1,8 @@
-# Entry 6
-##### X/X/XX
+# Blog 6
+##### 5/20/26
 
-Text
+## Content
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
