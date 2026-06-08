@@ -1,16 +1,17 @@
 # Presentation Plan
 
 ## Hook
-* 
+* DO YOU WANT TO SAVE YOUR  MONEY
 
 ## Product
-* 
+* My collecting coin game(freedom project)
 
 ## Process
-* 
+* Expain my code on how I make coins, player, npc and etc
 
 ## Conclusion
-* 
+* That Ask different people for help and Put full attention on your code
+
 
 <!-- EXAMPLE
 
