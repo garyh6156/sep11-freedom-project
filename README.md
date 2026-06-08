@@ -13,7 +13,7 @@ For my project, I chose to independently study **Kaboom** in order to help me ma
 [Presentation](https://docs.google.com/presentation/d/1_o3m4xBh6uloSOrY158DFSduQDTQqfYefmqHz7ugVsg/edit?slide=id.p#slide=id.p)
 
 ## Implications
-##### PROS
+### PROS
 ##### Global
   * Less reliance on aid and better finanical literacy
   * More savings and stronger financial stability
@@ -30,7 +30,7 @@ For my project, I chose to independently study **Kaboom** in order to help me ma
  * Encourages development
 
   
-##### CONS
+### CONS
 ##### Global
   * Less spending can mean lower tax revenue
   * Businesses may earn less if people less
