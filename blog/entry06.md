@@ -15,7 +15,11 @@ Even though I present my project, there is still things that I needed to improve
 The first skills was time management because when we were supposed doing our presentation sildes, I was still doing my project, so I was running out of times, which I just give up my project I just go straight to my sildes, so this was my mistaken, later on when we doing the expo elevator pitch I break down what should I work first and last so I don't running out of times.
 
 ### Collaboration
-That like I say in my takeaways you should ask different people for help because different people have different idea so I ask 
+That like I say in my takeaways you should ask different people for help because different people have different idea so I ask my friends, they give different idea and help fixed my bug.
+
+## Professionalism
+Put full attention on your code because when I am doing my project, I was missing one '}' my whole code is not working , so you really needed to pay attention to your code.
+
 
 
 
